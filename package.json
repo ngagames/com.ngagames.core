@@ -1,0 +1,13 @@
+{
+  "name": "com.ngagames.ads",
+  "version": "1.0.0",
+  "displayName": "NGA Ads",
+  "description": "Ads framework for NGA Games",
+  "unity": "2021.3",
+  "author": {
+    "name": "NGA Games"
+  },
+  "dependencies": {
+    "com.ngagames.core": "1.0.0"
+  }
+}
